@@ -134,7 +134,7 @@ CSV файлы с данными можно найти в папке `data` да
 
 ## Apache Airflow 
 
-Исходные данные csv-файлы были помещены в директорию `data/initial` контейнера Airflow. DAG-файл (`main.py`) находится в каталоге ![`dags`](./images/img4.png) ССЛЫКА !
+Исходные данные csv-файлы были помещены в директорию `data/initial` контейнера Airflow. DAG-файл (`main.py`) находится в каталоге ![`dags`](https://github.com/vmokook/Lab-1-2024/blob/main/solution/main.py)
 
 ### Схема пайплайна в Airflow 
 ![Схема пайплайна в Airflow](./images/img4.png)
